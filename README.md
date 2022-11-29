@@ -1,7 +1,6 @@
 Detección de digitos e interpretación de digitos | Análisis de Bases de Datos | 2022-II
 =======================================================================================
 > Juan Pablo Gutiérrez Restrepo
-> 
 > Juan Carlos Sánchez Orjuela
 
 ### Instalación
