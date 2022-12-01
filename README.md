@@ -1,6 +1,10 @@
 Detección de digitos e interpretación de digitos | Análisis de Bases de Datos | 2022-II
 =======================================================================================
+> María Sol Botello León
+>
 > Juan Pablo Gutiérrez Restrepo
+>
+> Anderson Andrés Llanos Quintero
 > 
 > Juan Carlos Sánchez Orjuela
 
